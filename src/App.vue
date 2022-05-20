@@ -12,10 +12,6 @@ import { RouterView } from 'vue-router';
 </template>
 
 <style lang="scss">
-#app {
-  text-align: center;
-}
-
 nav {
   text-align: center;
   padding: 30px;
